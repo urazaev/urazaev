@@ -27,7 +27,7 @@ I am currently open for full-time remote job or relocation in Canada offers.
 
 </p>
 
-![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=urazaev&show_icons=true&theme=vue)
+![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=urazaev&show_icons=true&count_private=true&theme=vue)
 
 <!--
 <p align="center">
