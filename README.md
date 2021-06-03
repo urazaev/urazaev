@@ -1,4 +1,4 @@
-## **Hi and welcome! 👋**
+## Hi and welcome! 👋
 
 I am Alexander Urazaev - web developer with a strong passion of UX/UI design.
 
