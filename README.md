@@ -5,7 +5,7 @@ I am Alexander Urazaev - web developer with a strong passion of UX/UI design.
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** Html, Css, Less, Sass, PostCSS;
-- **JavaScript:**  JavaScript (ES5/ES6), React, Redux (Thunk), React router, Styled-components;
+- **JavaScript:**  JavaScript (ES5/ES6), React, Redux (Thunk), React router, Styled-components, Chakra UI;
 - **Backend:**  Node, Express, MySql, Mongo 
 - **Version Controls:** Git, Mercurial;
 - **CMS:** Wordpress / Woocommerce / Elementor, ModX, Opencart, etc..;
