@@ -14,11 +14,6 @@ I am Alexander Urazaev - web developer with a strong passion of UX/UI design.
 - **Package managers:** NPM, Yarn.
 - **Other skills:** I am Linux advanced user, Bash.
 
-
-### 💌 Feel free to contact me if you have an open position that matches my skills.
-
-I am currently open for full-time remote job or relocation in Canada offers.
-
 <p align="center">
 <a href="mailto:urazaev.alexander@gmail.com"><img height="30" src="https://raw.githubusercontent.com/urazaev/urazaev/master/004-email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alexander-urazaev/"><img height="30" src="https://raw.githubusercontent.com/urazaev/urazaev/master/001-linkedin.svg"></a>&nbsp;&nbsp;
