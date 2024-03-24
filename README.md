@@ -1,30 +1,4 @@
-## Greetings and salutations! 🌟
 
-I am delighted to introduce myself as Alexander Urazaev, a seasoned web developer with a profound ardor for the intricacies of UX/UI design.
-
-Allow me to present my comprehensive technical repertoire:
-
-- **JavaScript Proficiency:** I possess a mastery of JavaScript encompassing ES5 and ES6, along with adeptness in TypeScript, React, Redux (Thunk), React Router, Styled-components, and Chakra UI.
-
-- **Responsive Web Development Expertise:** My skills extend to the realm of responsive web development, with a command over HTML, CSS, Less, Sass, PostCSS, and Tailwind CSS.
-
-- **Backend Aptitude:** I have a solid foundation in backend technologies, including Node, Express, MySQL, and MongoDB.
-
-- **Version Control Mastery:** Proficiency in Git and Mercurial enables me to manage code with precision.
-
-- **Content Management Systems (CMS) Dexterity:** I am well-versed in Content Management Systems such as Ghost, Wordpress, Woocommerce, Elementor, ModX, Opencart, and more.
-
-- **Code Bundling Proficiency:** I am well-equipped with code bundlers like Webpack, Parcel, Gulp, and Grunt to optimize project workflow.
-
-- **UX/UI Mastery:** My creative prowess extends to UX/UI design, with proficiency in Figma, Adobe Photoshop, Adobe Illustrator, Sketch, and Zeplin.
-
-- **Package Management:** I adeptly utilize NPM and Yarn for efficient package management, and I am experienced with Next.js.
-
-- **Error Monitoring with Sentry:** I am well-versed in implementing Sentry for error monitoring and management in web applications.
-
-- **Additional Skills:** My advanced proficiency in Linux and Bash further enhances my capabilities.
-
-It is a pleasure to share my expertise with you, and I look forward to the possibility of collaborating on future endeavors.
 
 
 <p align="center">
