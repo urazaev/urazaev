@@ -73,8 +73,6 @@ Check out my [App Store profile](https://apps.apple.com/us/developer/alexander-u
 
 </p>
 
-![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=urazaev&show_icons=true&count_private=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urazaev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <p align="center">
