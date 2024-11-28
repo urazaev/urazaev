@@ -9,7 +9,7 @@
 
 - **Mobile App Development:**  
    - Crafting polished and user-centric iOS and Android applications using React Native.  
-   - Explore my apps on [App Store](#) and [Google Play](#).
+   - Explore my apps on [App Store](https://apps.apple.com/us/developer/alexander-urazaev/id1706794934) and [Google Play](https://play.google.com/store/apps/developer?id=Alexander+Urazaev).
 
 - **Backend Integration & Database Management:**  
    - Building secure and scalable backends with Supabase and PostgreSQL.  
